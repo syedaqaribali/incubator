@@ -1,11 +1,11 @@
 # Incubator
 **This IoT project designed a temperature-controlled incubator for premature babies. The incubator is intended to maintain a stable internal temperature within user-defined maximum and minimum temperature limits. This kind of project can be critical in providing a controlled environment for premature infants to ensure their proper development and well-being. The following features can be expected in such an incubator:**
 # Main Components
-**ESP32 or any other microcontroller**
-**DHT22 sensor (for air mode)**
-**PT100 RTD Temperature Sensor- MAX31865 (for skin mode)**
-**BUZZER**
-**FAN**
+**ESP32 or any other microcontroller**                                                                                                                           
+**DHT22 sensor (for air mode)**                                                                                                                                        
+**PT100 RTD Temperature Sensor- MAX31865 (for skin mode)**                                                                                                              
+**BUZZER**                                                                                                                                                      
+**FAN**                                                                                                                                                                                                                   
 **HEATER**  
 **RELAY (2 SWITCH) for switching in the fan and heater**
 
